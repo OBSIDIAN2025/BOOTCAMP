@@ -1,9 +1,0 @@
-// Define constant for length and breadth of a rectangle and Calculate area and perimeter.
-#include<stdio.h>
-#define L 32
-#define B 21
-int main()
-{
-    printf("Area of rectangle is: %d\n", 2 * (L + B));
-    printf("Perimeter of rectangle is: %d", L * B);
-}
